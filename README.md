@@ -44,7 +44,7 @@ O código consiste nas seguintes funções principais:
 ## Tecnologias Utilizadas
 
 - HTML
-- CSS (não incluído no código fornecido)
+- CSS
 - JavaScript
 
 ## Contribuições
