@@ -50,3 +50,7 @@ O código consiste nas seguintes funções principais:
 ## Contribuições
 
 Sinta-se à vontade para fazer contribuições para este projeto. Se você encontrou algum bug ou tem uma melhoria em mente, por favor, envie uma pull request ou crie uma issue.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f7705bd-a470-477a-8a68-71ab7055f6b4" alt="Badge" width="400" height="350" />
+</p>
