@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6490c33-9204-43d2-b719-2de17d4248aa" alt="Descrição da Imagem" />
+</p>
+
 # Sorteio de Amigo Secreto
 
 Este projeto é uma aplicação simples para realizar o sorteio de amigo secreto, onde os usuários podem adicionar seus amigos, visualizar a lista e sortear aleatoriamente um amigo para o jogo de amigo secreto.
